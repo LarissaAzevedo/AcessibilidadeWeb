@@ -1,10 +1,6 @@
 # Talk Precisamos falar sobre acessibilidade web
-Conteúdo da apresentação sobre Acessibilidade Web para o TDC 2022
-
-[Breves apresentações minhas e sobre porquê desse tema]
 
 ## Benefícios de uma web acessiva
-Contar a história da charge da rampa e da escada com neve da escola
 
 [Imagem de exemplo](https://miro.medium.com/max/1400/1*sX9jROr2qU4XyWKO2BaHGg.jpeg)
 
@@ -39,8 +35,6 @@ Para as pessoas
 - Pessoas com dispositivos móveis acessam serviços e informações na Web, mesmo utilizando telas e teclados muito pequenos e com velocidade de conexão e capacidade de processamento e armazenamento reduzidas.
 
 
-[Preciso mencionar as vantagens para as empresas também, atende ao público que não desenvolve mas gerencia]
-
 Tornando o seu projeto acessível fará com que essas pessoas sejam incluídas e consigam ter acesso ao seu conteúdo/produto.
 
 ## Leis de Acessibilidade Web
@@ -55,10 +49,6 @@ O acesso às tecnologias de informação e comunicação também foi definido co
 
 O	Web	Content	Accessibility	Guidelines	pode	ser	considerado o	 principal	 documento	 de	 acessibilidade	 na	 Web	 no	 qual	 o desenvolvedor	 se	 baseia	 para	 tornar	 o	 conteúdo	 acessível.
 
-### Princípios - pilares que constroem a base da acessibilidade web
-- Perceptível
-
-As	 informações	 e	 os	 componentes	 da interface	do	usuário	devem	ser	apresentados	em	formas que	 possam	 ser	 percebidas	 pelo	 usuário.	 Isso	 significa que	 o	 conteúdo	 não	 pode	 ser	 invisível	 para	 mais	 de um	 sentido	 do	 usuário.	 Um	 bom	 exemplo	 para	 este princípio	 é	 considerar	 que	 qualquer	 conteúdo	 não textual	 precisa	 ter	 uma	 alternativa	 em	 texto,	 seja	 ele uma	imagem,	um	campo	de	formulário	etc.
 
 | Princípio  |  Diretrizes  |
 | ------------------- | ------------------- |
@@ -68,6 +58,12 @@ As	 informações	 e	 os	 componentes	 da interface	do	usuário	devem	ser	aprese
 | Robusto | Compatível: Maximizar a compatibilidade com os agentes de utilizador atuais e futuros, incluindo as tecnologias de apoio. |
 |  |
 
+<br></br>
+
+### Princípios - pilares que constroem a base da acessibilidade web
+- Perceptível
+
+As	 informações	 e	 os	 componentes	 da interface	do	usuário	devem	ser	apresentados	em	formas que	 possam	 ser	 percebidas	 pelo	 usuário.	 Isso	 significa que	 o	 conteúdo	 não	 pode	 ser	 invisível	 para	 mais	 de um	 sentido	 do	 usuário.	 Um	 bom	 exemplo	 para	 este princípio	 é	 considerar	 que	 qualquer	 conteúdo	 não textual	 precisa	 ter	 uma	 alternativa	 em	 texto,	 seja	 ele uma	imagem,	um	campo	de	formulário	etc.
 
 - Operável
 
@@ -89,11 +85,7 @@ tecnologia	assistiva.	O	uso	correto	dos	padrões	Web	já
 ajuda	bastante	a	atingir	este	princípio
 
 
-
-
-
-
-
+<br></br>
 
 ### Diretrizes - objetivos básicos a serem atingidos dentro de cada princípio
 - Diretriz	 1.1	 Alternativas	 em	 texto
@@ -119,7 +111,6 @@ Maximizar	 a compatibilidade	 entre	 os	 atuais	 e	 futuros	 agentes	 de
 usuário,	incluindo	tecnologias	assistivas.
 
 
-
 ### Critérios	de	sucesso ou níveis de conformidade	- detalhes de	como	obter	sucesso	em	cada diretriz
 
 - Nível	 A
@@ -133,14 +124,11 @@ Com	 os	 critérios	 de	 sucesso	 de	 níveis	 A	 e AA,	sua	aplicação	consegue
 
 Satisfaz	os	critérios	dos	níveis	anteriores, possibilitando	 que	 mais	 pessoas	 sejam	 contempladas com	 a	 acessibilidade	 da	 aplicação,	 porém	 é	 o	 mais difícil	de	se	atingir.	Não	se	recomenda	utilizar	o	nível AAA	 como	 política	 de	 acessibilidade	 para	 sites inteiros,	 mas	 em	 algumas	 áreas,	 quando	 necessário, pode	ser	bastante	útil.
 
-### Técnicas - Código
+<br></br>
+
 
 ## Considerações finais
 
 - Acessibilidade	 não	 é	 filantropia.	 É	 garantia	 de	 direitos iguais.
 - Eliminar	 barreiras	 de	 acesso	 é	 mais	 simples	 do	 que parece.
 - Uma	 Web	 acessível	 beneficia	 todas	 as	 pessoas. Defenda-a o quanto possível.
-
-[último slide]
-Estou	à	disposição	para	tirar	dúvidas.	Fiquem	à	vontade	para	entrar em	contato	comigo	quando	quiserem	pelos	canais	disponíveis [redes]
-Obrigada e até a próxima.
