@@ -4,6 +4,11 @@
 
 [Imagem de exemplo](https://miro.medium.com/max/1400/1*sX9jROr2qU4XyWKO2BaHGg.jpeg)
 
+![1_sX9jROr2qU4XyWKO2BaHGg](https://user-images.githubusercontent.com/29931326/172262613-ff9f7dd7-5fd0-426f-865e-c616f8914cbc.jpeg)
+
+A imagem é uma ilustração da porta de uma escola que precisa ser acessada por uma escada ou uma rampa, porém ambas estão obstruídas pela neve. Um homem segura uma pá e diversas crianças estão esperando, entre elas um menino cadeirante. Um menino cadeirante e o homem têm o diálogo descrito na legenda da imagem. 
+Menino na cadeira de rodas: “Você poderia limpar a rampa, por favor?” Zelador: “Todas as outras crianças estão esperando para usar as escadas. Quando eu terminar de limpá-las, eu limparei a rampa para você”. Menino na cadeira de rodas: “Mas se você limpar a rampa, nós todos poderemos entrar”.
+
 ## Dados
 No Brasil cerca de 24% da população (45 milhões de brasileiros) possui algum tipo de deficiência(IBGE).
 
